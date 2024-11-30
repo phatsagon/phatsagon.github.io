@@ -5,5 +5,5 @@
 
 <br>
 
-[Vocab Work](/vlan)
+[Vocab Work](/vlan.md)
 ![myprofile](/img/profile.png)
