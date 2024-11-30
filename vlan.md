@@ -1,6 +1,6 @@
 # Virtual Local Area Networks (VLANs)
 
-[mypf](phatsagon.github.io/README)
+[Profile](phatsagon.github.io/README)
 
 <ul>
   <li>CISSP Glossary</li>
@@ -72,4 +72,4 @@
     </ul>
 </ul>
 
-<a href="https://witchapolinaksorn.github.io/vlan">F page</a>
+<a href="https://witchapolinaksorn.github.io/vlan">Witchapol VLAN Page</a>
