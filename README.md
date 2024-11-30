@@ -5,5 +5,5 @@
 
 <br>
 
-[Vocab Work](phatsagon.github.io/vlan)
+[Vocab Work](/vlan)
 ![myprofile](/img/profile.png)
