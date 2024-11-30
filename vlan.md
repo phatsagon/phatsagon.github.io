@@ -3,14 +3,14 @@
 <ul>
   <li>CISSP Glossary</li>
     <ul>
-        <li>xxx</li>
+        <li>Allow network administrators to use switches to create software-based LAN segments that can be defined based on factors other than physical location.</li>
         <li>ChatGPT</li>
         <ul>
-            <li>xx</li>
+            <li>ช่วยให้ผู้ดูแลระบบเครือข่ายสามารถใช้สวิตช์ในการสร้าง LAN เชิงตรรกะที่กำหนดโดยซอฟต์แวร์ ซึ่งสามารถกำหนดได้จากปัจจัยอื่น ๆ นอกเหนือจากตำแหน่งทางกายภาพ</li>
         </ul>
         <li>Gemini</li>
         <ul>
-            <li>xx</li>
+            <li>อนุญาตให้อดมินเครือข่ายใช้สวิตช์เพื่อสร้างเซ็กเมนต์ LAN แบบซอฟต์แวร์ที่สามารถกำหนดตามปัจจัยอื่นนอกเหนือจากตำแหน่งทางกายภาพ</li>
         </ul>
     </ul>
   <li>Gartner</li>
