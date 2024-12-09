@@ -1,7 +1,7 @@
 # phatsagon
 
 - phatsagon
-    - mark\
+    - mark
 
 
 [Vocab Work](vlan)
