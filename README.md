@@ -1,9 +1,8 @@
 # phatsagon
 
 - phatsagon
-    - mark
+    - mark\
 
-<br>
 
 [Vocab Work](vlan)
 ![myprofile](/img/profile.png)
